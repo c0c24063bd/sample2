@@ -1,3 +1,19 @@
+<style>
+ body {
+ background: lightcyan;
+ width: 800px;
+ margin: auto;
+ }
+ h1 {
+ color: maroon;
+ text-align: center;
+ }
+ p {
+ color: gray;
+ border: 1px solid gray;
+ padding: 10px;
+ }
+</style>
 # マークダウンで書いたページ
 ⼈⽣は、⽣きてるだけで丸儲け、争わない、楽しみ、チャレンジするそれで、⼈の役に⽴てれば最⾼!
 ## 中野信⼦⽒「⽣きてるだけで丸儲け」は⽣物学的にも正しい
